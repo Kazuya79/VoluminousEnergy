@@ -4,8 +4,11 @@
     "text.voluminousenergy.multiblock.distillation_unit.requirements": "Carcaça de Máquina de Alumínio 3x3x3 ATRÁS da Entidade",
     "text.voluminousenergy.multiblock.blast_furnace.requirements": "Carcaça de Máquina de Titânio 3x3x3 ATRÁS da Entidade",
     "text.voluminousenergy.temperature": "Temperatura",
-    "text.voluminousenergy.protective_sheath": "Bainha Protetora",
+    "text.voluminousenergy.protective_sheath": "Bainha Protetora",	
     "text.voluminousenergy.generating": "Gerando",
+    "text.voluminousenergy.percent_complete": "Porcentagem Completa",
+    "text.voluminousenergy.percent_burned": "Porcentagem Queimado",
+    "text.voluminousenergy.ticks_left": "Ticks Restante(s)",
 
     "_comment": "Directions",
     "direction.voluminousenergy.up": "Cima",
